@@ -1,0 +1,8 @@
+---
+# This file contains shared variables 
+
+env: "dev"
+shared_tags:
+  terraform: "true"
+  environment: "dev"
+  owner: "infra"
